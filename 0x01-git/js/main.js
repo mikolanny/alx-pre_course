@@ -1,2 +1,0 @@
-cat > index.js
-clear
